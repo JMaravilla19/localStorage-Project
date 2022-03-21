@@ -1,0 +1,41 @@
+h1, h2 {
+    text-align: center;
+}
+
+#contenido {
+    margin-top: 40px;
+}
+.borrar-tweet,
+.borrar-tweet:hover {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
+
+.error {
+    background-color: red;
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    max-width: 400px;
+    margin: 1rem auto;
+    color: white;
+}
+
+ /* .task{
+    
+    border-style: dashed solid;
+    border-color: black;
+    border-width: .5rem;
+    padding: 2rem;
+    
+    
+} */
+
+/* .taskTitle{
+    border-style: inset;
+    border-color: rgb(69, 139, 245);
+    border-width: 1.5rem;
+} */
